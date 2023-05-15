@@ -1,3 +1,3 @@
 # Analise-PowerBi
-Gerando um porfólio em PowerBi. 
+Gerando um portfólio em PowerBi. 
 
